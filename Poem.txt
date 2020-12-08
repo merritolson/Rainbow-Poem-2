@@ -1,5 +1,7 @@
 #bold 
 **Rainbow**
+>>>print("the () who say ()!".format ("Knight", "Ni"))
+The Knights who say 
 
 Oh how I love the rainbow
 It really does glow
