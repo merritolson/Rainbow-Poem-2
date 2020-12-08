@@ -1,4 +1,5 @@
-#bold Rainbow
+#bold 
+**Rainbow**
 
 Oh how I love the rainbow
 It really does glow
